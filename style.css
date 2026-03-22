@@ -40,14 +40,7 @@ header {
     animation: fadeIn 1s ease-in;
 }
 
-profile-pic {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;       /* makes it circle */
-    object-fit: cover;        /* VERY IMPORTANT (fixes image inside circle) */
-    border: 4px solid white;
-    display: block;
-    margin: 10px auto;
+
 }
 
 /* BUTTON */
